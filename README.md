@@ -1,0 +1,1 @@
+# Naive-Bayers-Loan-Predictions-using-gausion.
